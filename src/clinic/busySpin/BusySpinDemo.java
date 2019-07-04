@@ -1,4 +1,4 @@
-package clinic.BusySpin;
+package clinic.busySpin;
 
 public class BusySpinDemo
 {
@@ -10,5 +10,6 @@ public class BusySpinDemo
         Thread consumerThread = new Thread(consumer, "consThread");
         producerThread.start();
         consumerThread.start();
+
     }
 }

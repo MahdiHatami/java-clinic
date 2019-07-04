@@ -1,4 +1,4 @@
-package clinic.BusySpin;
+package clinic.busySpin;
 
 import java.util.ArrayList;
 

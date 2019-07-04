@@ -4,8 +4,14 @@ package clinic.concurrency;
 import java.util.concurrent.Semaphore;
 
 /*
+    Semaphore:
     Consider an ATM cubicle with 4 ATMs,
     Semaphore can make sure only 4 people can access simultaneously.
+
+    Mutex:
+    is the Semaphore with an access count of 1. Semaphore(1)
+    Consider a situation of using lockers in the bank.
+    Usually the rule is that only one person is allowed to enter the locker room.
  */
 public class SemaphoreExample
 {

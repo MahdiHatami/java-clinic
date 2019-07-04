@@ -1,4 +1,4 @@
-package clinic.BusySpin;
+package clinic.busySpin;
 
 class Consumer extends Thread
 {
