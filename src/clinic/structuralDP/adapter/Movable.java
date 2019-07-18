@@ -1,4 +1,4 @@
-package clinic.structuralDP;
+package clinic.structuralDP.adapter;
 
 //When an outside component provides captivating functionality that we’d like to reuse,
 // but it’s incompatible with our current application.

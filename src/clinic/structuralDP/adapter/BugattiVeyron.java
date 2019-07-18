@@ -1,4 +1,4 @@
-package clinic.structuralDP;
+package clinic.structuralDP.adapter;
 
 public class BugattiVeyron implements Movable
 {
