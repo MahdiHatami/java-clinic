@@ -1,4 +1,4 @@
-package clinic.structuralDP.bridge;
+package clinic.designPattern.structuralDP.bridge;
 
 public abstract class Shape
 {
